@@ -1,13 +1,13 @@
 {
-  "name": "test-plugin",
-  "main": "./lib/test-plugin",
+  "name": "atom-update-lastmod-on-markdown",
+  "main": "./lib/atom-update-lastmod-on-markdown",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "test-plugin:toggle"
   },
-  "repository": "https://github.com/atom/test-plugin",
+  "repository": "https://github.com/meganii/atom-update-lastmod-on-markdown",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
